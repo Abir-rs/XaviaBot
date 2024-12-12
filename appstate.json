@@ -1,0 +1,101 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261556595658466%22%3A%22V6J9YCJF%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.705Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "sb",
+        "value": "9vBLZ11DS87r4_0xrPXhSi--",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "datr",
+        "value": "4GtaZ_56rsH4pEQMGgnwa7-c",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61569849716323",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "xs",
+        "value": "45%3AB2iu1jwAjveAtw%3A2%3A1733979292%3A-1%3A-1%3A%3AAcUXzTrpCaGkojtspzasadYYOgboF_zU5nUxYQBKGQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "wd",
+        "value": "1280x559",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "fr",
+        "value": "1ftf1FcuOU127QVDw.AWUc82Tvd0HrT90fGGieji0jt4I.BnWqaD..AAA.0.0.BnWqaX.AWXtrvAi3Oo",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1733994138707%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T09:02:20.707Z",
+        "lastAccessed": "2024-12-12T09:02:20.707Z"
+    }
+]
